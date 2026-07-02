@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" src="<img width="100" height="100" alt="WhatsApp Image 2026-07-02 at 1 41 00 PM" src="https://github.com/user-attachments/assets/1ea82d9b-c7fb-4588-866e-9f2507ecf34b" />
+<img align="right" src="<img width="100" height="100" alt="WhatsApp Image 2026-07-02 at 1 41 00 PM"  />
 
 - 🌱 Learning **AWS, Linux, Git, Docker & DevOps**
 - 💻 Frontend: HTML, CSS
