@@ -12,7 +12,8 @@
 
 # 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="<img width="527" height="608" alt="WhatsApp Image 2026-07-02 at 1 41 00 PM" src="https://github.com/user-attachments/assets/626d47fd-7183-40ac-93eb-478f05fce52a" />
+/>
 
 - 🌱 Learning **AWS, Linux, Git, Docker & DevOps**
 - 💻 Frontend: HTML, CSS
@@ -75,11 +76,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/anuj-choudhary-b456993a5?">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:anujsughal@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
