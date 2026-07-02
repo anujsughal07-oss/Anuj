@@ -12,8 +12,7 @@
 
 # 👨‍💻 About Me
 
-<img align="right" src="<img width="527" height="608" alt="WhatsApp Image 2026-07-02 at 1 41 00 PM" src="https://github.com/user-attachments/assets/626d47fd-7183-40ac-93eb-478f05fce52a" />
-/>
+<img align="right" src="<https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 - 🌱 Learning **AWS, Linux, Git, Docker & DevOps**
 - 💻 Frontend: HTML, CSS
